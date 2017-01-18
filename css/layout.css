@@ -1,0 +1,31 @@
+html {
+background: black;
+}
+
+body {
+width: 80%;
+margin: 20px auto;
+background: #fff;
+}
+
+#header {
+height:15%;
+background: #f4f142;
+}
+
+#sidebar {
+float: left;
+width: 200px;
+height: 100%;
+background: #f48f42;
+}
+
+#main {
+border-left: 200px solid #f48f42;
+}
+
+#footer {
+clear: left;   /* pushes the div at the bottom of the page*/
+height: 15%;
+background: #f4f142;
+}
